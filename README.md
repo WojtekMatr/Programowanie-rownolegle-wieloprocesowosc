@@ -4,4 +4,4 @@ Program w C który ma 1 proces matke i 3 podprocesy, 1 proces odczytuje tekst i 
 2-wznowi się
 3 zatrzyma się
 Do stworzenia programu wykorzystałem semafory, kolejkę i pipe(do komunikowania się między procesami)
-[![Obejrzyj aplikacje]](https://www.youtube.com/watch?v=tlfXGeagNec)
+[![Obejrzyj aplikacje]](https://www.youtube.com/watch?v=TF5eE2BPV7c)
